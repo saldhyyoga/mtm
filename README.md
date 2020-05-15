@@ -14,3 +14,7 @@ and then run the server
 ```
 npm start
 ```
+
+For login
+Email : admin@gmail.com
+Password : admin
